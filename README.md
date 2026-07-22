@@ -7,17 +7,27 @@ In this course I gained foundational knowledge that will prepare me for entry-le
 This course covered many conceptual topics such as:
 
 Risk management
+
 Threat analysis
+
 Network security
+
 Incident response
+
 It also taught me technical skills with:
 
 Linux
+
 Python
+
 SQL
+
 SIEM tools (Splunk and Chronicle)
+
 Network protocol analyzers (Wireshark and tcpdump)
+
 IDS/IPS tools
+
 Firewalls
 
 Each directory holds the files for each of the courses in the certificate and the order they were completed in is:
